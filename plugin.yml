@@ -1,0 +1,11 @@
+name: PM-PluginTemplate
+main: space\yurisi\pluginname
+author: yurisi
+# depend:
+#   - EconomyAPI
+version: 1.0.0
+api: 4.0.0
+# permissions:
+#   space.yurisi.pluginname.example:
+#     default: op
+#     description: 詳細
